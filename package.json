@@ -1,6 +1,6 @@
 {
-  "name": "vscode-protolint",
-  "displayName": "Proto Lint",
+  "name": "vscode-protolint-nrw",
+  "displayName": "Proto Lint Fixed (nrw)",
   "description": "Lint your protobufs using protolint",
   "license": "MIT",
   "homepage": "https://github.com/n-r-w/vscode-protolint",
