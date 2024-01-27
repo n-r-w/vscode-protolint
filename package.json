@@ -4,7 +4,7 @@
   "description": "Lint your protobufs using protolint",
   "license": "MIT",
   "homepage": "https://github.com/n-r-w/vscode-protolint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "nrw",
   "icon": "icon/protolint_logo128.png",
   "repository": {
